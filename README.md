@@ -1,0 +1,1 @@
+This will be an HTML project about recipes. This will demonstrate the basic foundatation of HTML that I have learned so far in the Odin Project.
